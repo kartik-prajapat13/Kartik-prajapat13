@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **Kumharkartik092@gmail.com**
 
-- 📄 Know about my experiences [https://yellow-madge-63.tiiny.site]([https://drive.google.com/drive/folders/1PE5KsdaNgYxnvwxIYJ9LfVjipF7aaV4Y](https://yellow-madge-63.tiiny.site))
+- 📄 Know about my experiences <a href="https://yellow-madge-63.tiiny.site" target="_blank">here</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
