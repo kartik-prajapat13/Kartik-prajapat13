@@ -1,3 +1,4 @@
+![logo](https://github.com/kartik-prajapat13/Kartik-prajapat13/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kartik Prajapat</h1>
 <h3 align="center">Developer from India with strong skills in Java, Python, C++, HTML, CSS, and MySQL, experienced in frameworks such as Spring Boot and JSP & Servlets</h3>
 
