@@ -1,6 +1,6 @@
 ![logo](https://github.com/kartik-prajapat13/Kartik-prajapat13/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kartik Prajapat</h1>
-<h3 align="center">Developer from India with strong skills in Java, Python, C++, HTML, CSS, and MySQL, experienced in frameworks such as Spring Boot and JSP & Servlets</h3>
+<h3 align="center">Developer from India skilled in Java, Python, C++, MySQL, Spring Boot, JSP & Servlets, and scalable web apps</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Kumharkartik092@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PE5KsdaNgYxnvwxIYJ9LfVjipF7aaV4Y](https://drive.google.com/drive/folders/1PE5KsdaNgYxnvwxIYJ9LfVjipF7aaV4Y)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/folders/1PE5KsdaNgYxnvwxIYJ9LfVjipF7aaV4Y](https://yellow-madge-63.tiiny.site))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
