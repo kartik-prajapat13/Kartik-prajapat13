@@ -1,4 +1,4 @@
-![logo](https://github.com/kartik-prajapat13/Kartik-prajapat13/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Kartik Prajapat</h1>
 <h3 align="center">Developer from India skilled in Java, Python, C++, MySQL, Spring Boot, JSP & Servlets, and scalable web apps</h3>
 
