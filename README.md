@@ -1,4 +1,4 @@
-![logo](https://github.com/kartik-prajapat13/Kartik-prajapat13/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
+![logo](https://github.com/kartik-prajapat13/Kartik-prajapat13/blob/main/a.png.png)
 <h1 align="center">Hi 👋, I'm Kartik Prajapat</h1>
 <h3 align="center">Developer from India skilled in Java, Python, C++, MySQL, Spring Boot, JSP & Servlets, and scalable web apps</h3>
 
